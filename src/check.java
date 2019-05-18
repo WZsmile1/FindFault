@@ -9,6 +9,7 @@ public class check {
 	public static void main(String[] args) {
 		su =new suggest(dicPath,trainPath); 			
 		su.check(englishPath);
+		System.out.println("123545");
 	}
 
 }
